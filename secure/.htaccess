@@ -1,0 +1,4 @@
+ RewriteEngine on
+ RewriteRule ^(.*)/(.*)/(.*)$ video.php?h=$1&t=$2&v=$3
+ RewriteRule ^$ - [F]
+ RewriteRule ^[^/]+\.(mov|mp4)$ - [F]
