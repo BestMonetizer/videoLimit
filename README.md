@@ -13,5 +13,5 @@ This is based on the free version of the `flow player` and its secure streaming 
 
 * TO DO
 	* expire video url based after certain time
-
+License: MIT
 Note : I do not own flowplayer or any related trademarks!
